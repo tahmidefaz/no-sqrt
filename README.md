@@ -8,3 +8,6 @@ Uses binary search algorithm to find the root of a number.
 `if sqrt(x) = z, then x = z^2`
 
 So, `if given x`, we need to find a number we need to find a number between 0 and x whose square is equal to x.
+To find a z whose square is equal to x, the program uses binary search.
+
+Time complexity: bigO = O(log n)
