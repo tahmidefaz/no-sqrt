@@ -7,4 +7,5 @@ We know that:
 
 
 `if sqrt(x) = z, then x = z^2`
+
 So, `if given x`, we need to find a number we need to find a number between 0 and x whose square is equal to x.
